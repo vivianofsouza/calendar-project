@@ -1,0 +1,31 @@
+.col-2 {
+    padding: 10px; 
+}
+
+.card {
+    background-color: seashell;
+    height: 200%; 
+    border-radius: 3%;
+}
+
+h1 {
+    color: seashell;
+    padding-top: 10px; 
+    padding-left: 10px; 
+    background-color: darkblue; 
+    font-size: 200%; 
+}
+
+h3 {
+    position: relative; 
+    top: 310%; 
+    color:seashell; 
+    float: right; 
+    padding: 5px 10px 5px 10px; 
+    border-radius: 5%; 
+    background-color: darkblue;
+}
+
+p {
+    padding-left: 10px; 
+}
